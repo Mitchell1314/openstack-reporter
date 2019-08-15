@@ -1,2 +1,2 @@
 # openstack-reporter
-microservices-based openstack monitoring tooll
+microservices-based openstack monitoring tool
